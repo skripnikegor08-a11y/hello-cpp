@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std:: cout << "Hello, ITMO" << std:: endl;
+    std:: cout << "Hello from new student" << std:: endl;
     return 0;
 }
