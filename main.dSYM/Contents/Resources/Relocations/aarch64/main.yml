@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/egor4ik/Desktop/hello-cpp/main'
+relocations:     []
+...

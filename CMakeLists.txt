@@ -1,7 +1,6 @@
-cmake_minimum_required(VERSION 3.20)
+cmake_minimum_required(VERSION 3.10)
+project(HelloWorld)
 
-project(MyProject)
+set(CMAKE_CXX_STANDARD 11)
 
-set(CMAKE_CXX_STANDARD 17)
-
-add_executable(MyProject main1.cpp)
+add_executable(${CMAKE_PROJECT_NAME} main.cpp)
